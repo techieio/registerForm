@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-modern-login/static/css/main.1ece3f38.css",
+    "main.js": "/react-modern-login/static/js/main.2c544fde.js",
+    "static/js/377.b38b747a.chunk.js": "/react-modern-login/static/js/377.b38b747a.chunk.js",
+    "index.html": "/react-modern-login/index.html",
+    "main.1ece3f38.css.map": "/react-modern-login/static/css/main.1ece3f38.css.map",
+    "main.2c544fde.js.map": "/react-modern-login/static/js/main.2c544fde.js.map",
+    "377.b38b747a.chunk.js.map": "/react-modern-login/static/js/377.b38b747a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ece3f38.css",
+    "static/js/main.2c544fde.js"
+  ]
+}
